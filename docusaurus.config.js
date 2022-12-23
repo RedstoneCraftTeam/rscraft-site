@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: '红石工艺（Redstone Craft）',
+  tagline: '轻量 纯净 国创 养老 原版',
+  url: 'https://www.rscraft.cf',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,15 +16,15 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'RedstoneCraftTeam', // Usually your GitHub org/user name.
+  projectName: 'rscraft-site', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans'],
   },
 
   presets: [
@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/RedstoneCraftTeam/rscraft-site/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/RedstoneCraftTeam/rscraft-site/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -57,22 +57,16 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: '红石工艺（Redstone Craft）',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'rsc_logo',
+          src: 'img/rsclogo.png',
         },
         items: [
+          {to: '/changelog/', label: '更新日志', position: 'left'},
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://jq.qq.com/?_wv=1027&k=4z1QcV8t',
+            label: 'QQ群',
             position: 'right',
           },
         ],
@@ -81,46 +75,41 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '导航',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '主页',
+                href: '/',
+              },
+              {
+                label: '下载',
+                href: '/download/',
+              },
+              {
+                label: '更新日志',
+                href: '/changelog/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '联系我们 丨 Contact us',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/RedstoneCraftTeam',
+              },
+              {
+                label: 'E-mail',
+                href: 'mailto:geneluo@qq.com'
+              },
+              {
+                label: 'QQ群',
+                href: 'https://jq.qq.com/?_wv=1027&k=4z1QcV8t'
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `版权所有 © ${new Date().getFullYear()} 红石工艺团队。网站使用 Docusaurus 构建。`,
       },
       prism: {
         theme: lightCodeTheme,
