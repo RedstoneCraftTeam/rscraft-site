@@ -63,6 +63,7 @@ const config = {
           src: 'img/rsclogo.png',
         },
         items: [
+          {to: '/download/', label: '下载', position: 'left'},
           {to: '/changelog/', label: '更新日志', position: 'left'},
           {
             href: 'https://jq.qq.com/?_wv=1027&k=4z1QcV8t',
@@ -109,7 +110,7 @@ const config = {
             ],
           },
         ],
-        copyright: `版权所有 © ${new Date().getFullYear()} 红石工艺团队。网站使用 Docusaurus 构建。`,
+        copyright: `版权所有 © ${new Date().getFullYear()} 红石工艺团队。网站使用 Docusaurus 2 构建。`,
       },
       prism: {
         theme: lightCodeTheme,
