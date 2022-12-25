@@ -1,4 +1,8 @@
-# 更新日志
+---
+title: 更新日志
+description: 红石工艺 更新日志
+
+---
 
 :::caution
 这里的更新日志可能与实际写于 [README的更新日志](https://github.com/RedstoneCraftTeam/Redstone_Craft#download) 存在误差。
