@@ -7,6 +7,7 @@ description: 红石工艺 下载
 :::info
 因为GitHub对于中国地区用户来说非常不友好（指经常连接失败），我们正在准备镜像下载站。
 :::
+
 :::info
 Snapshot 22w01a透露：我们加入了Sodium和Iris！
 :::
