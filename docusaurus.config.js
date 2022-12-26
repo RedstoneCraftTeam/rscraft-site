@@ -63,8 +63,8 @@ const config = {
           src: 'img/rsclogo.png',
         },
         items: [
-          {to: '/download/', label: '下载', position: 'left'},
-          {to: '/changelog/', label: '更新日志', position: 'left'},
+          {to: '/download', label: '下载', position: 'left'},
+          {to: '/changelog', label: '更新日志', position: 'left'},
           {
             href: 'https://jq.qq.com/?_wv=1027&k=4z1QcV8t',
             label: 'QQ群',
