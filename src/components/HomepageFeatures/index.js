@@ -16,6 +16,7 @@ const FeatureList = [
     description: (
       <>
         我们不想让一个整合包玩起来很麻烦。
+        <br />
         我们争取让这个整合包在使用上更简单，易入手。
       </>
     ),
@@ -25,7 +26,9 @@ const FeatureList = [
     description: (
       <>
         就如这个词所说...这个材质包更适合单人游玩！
+        <br />
         当然，多人游玩也应该毫无问题。
+        <br />
         （⚠注意：多人游戏中，Tweakeroo模组和X-Ray透视矿材质包慎用（有几率会被服务器ban））
       </>
     ),
