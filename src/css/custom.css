@@ -28,3 +28,21 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+.linkbtn {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ff0000;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #ff0000 2px;
+  text-decoration: none;
+}
+
+.linkbtn:hover {
+  background: #d3d3d3;
+  text-decoration: none;
+}
