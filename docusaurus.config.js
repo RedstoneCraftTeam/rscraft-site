@@ -70,6 +70,10 @@ const config = {
             label: 'QQ群',
             position: 'right',
           },
+          {
+            href: 'https://afdian.net/a/wdning',
+            label: '爱发电'
+          },
         ],
       },
       footer: {
@@ -106,6 +110,10 @@ const config = {
               {
                 label: 'QQ群',
                 href: 'https://jq.qq.com/?_wv=1027&k=4z1QcV8t'
+              },
+              {
+                label: '爱发电',
+                href: 'https://afdian.net/a/wdning'
               },
             ],
           },
