@@ -118,7 +118,7 @@ const config = {
             ],
           },
         ],
-        copyright: `版权所有 © ${new Date().getFullYear()} 红石工艺团队。网站使用 Docusaurus 2 构建。`,
+        copyright: `版权所有 © 2022- ${new Date().getFullYear()} 红石工艺团队。`,
       },
       prism: {
         theme: lightCodeTheme,
