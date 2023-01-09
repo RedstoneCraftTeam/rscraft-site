@@ -118,7 +118,7 @@ const config = {
             ],
           },
         ],
-        copyright: `版权所有 © 2022- ${new Date().getFullYear()} 红石工艺团队。`,
+        copyright: `版权所有 © 2022 ~ ${new Date().getFullYear()} 红石工艺团队。`,
       },
       prism: {
         theme: lightCodeTheme,
