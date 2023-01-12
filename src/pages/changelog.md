@@ -16,5 +16,5 @@ description: 红石工艺 更新日志
 | [1.1.1](https://share.weiyun.com/hjzBQhaQ) | ❌ | ✅ | 19 | Fix bugs |
 | [1.1.2](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/v1.1.2) | ❌ | ✅ | 21 | Added mod: Tweakeroo, Durability Viewer |
 | [[SNAPSHOT \| 快照]22w01a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/22w01a) | ❌ | ✅ | 23 | Added mod: Sodium, Iris |
-| [[SNAPSHOT \| 快照]22w02a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/22w02a) | ❌ | ✅ | 26 | Added mod: JEI, Click Opener Mod, clienttweaks |
+| [[SNAPSHOT \| 快照]22w02a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/22w02a) | ❌ | ❌ | 26 | Added mod: JEI, Click Opener Mod, clienttweaks |
 | [[SNAPSHOT \| 快照]23w01a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/23w01a) | ❌ | ❌ | 28 | Added mod: Apple skin, autoreconnect |
