@@ -3,7 +3,7 @@ title: 已知Bug
 description: 红石工艺 已知Bug
 ---
 # 整合包已知Bug
-::: caution
+:::caution
 这里写的是我们检查出来的bug，难免会有漏网之鱼。
 如果发现还有其他的bug，欢迎通过底部联系方式向我们反馈。
 :::
