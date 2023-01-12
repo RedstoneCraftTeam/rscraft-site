@@ -10,6 +10,12 @@ description: 红石工艺 更新日志
 如果想要获取最新的更新日志，请阅读[README的更新日志](https://github.com/RedstoneCraftTeam/Redstone_Craft#download)。
 :::
 
+:::info
+最近快照版...出了一些小问题 -_-||
+为了记录我们检测出来的bug，我们已添加/bugs页面
+[传送门](/bugs)
+:::
+
 | 版本（Version） | 漏洞（Vulnerability） | 推荐（Recommended） | 模组数量（Number of modules） | 备注（Remarks） |
 | --- | --- | --- | --- | --- |
 | 1.1.0 | ✅ | ❌ | 19 | First virsion |
