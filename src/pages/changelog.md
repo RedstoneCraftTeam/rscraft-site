@@ -18,6 +18,8 @@ description: 红石工艺 更新日志
 [传送门](/bugs)
 :::
 
+[~~___你应该发现了不是中文___~~](https://github.com/RedstoneCraftTeam/Redstone_Craft/blob/main/Chinese.md)
+
 | 版本（Version） | 漏洞（Vulnerability） | 推荐（Recommended） | 模组数量（Number of modules） | 备注（Remarks） |
 | --- | --- | --- | --- | --- |
 | 1.1.0 | ✅ | ❌ | 19 | First virsion |
@@ -26,3 +28,4 @@ description: 红石工艺 更新日志
 | [[SNAPSHOT \| 快照]22w01a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/22w01a) | ❌ | ✅ | 23 | Added mod: Sodium, Iris |
 | [[SNAPSHOT \| 快照]22w02a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/22w02a) | ❌ | ❌ | 26 | Added mod: JEI, Click Opener Mod, clienttweaks |
 | [[SNAPSHOT \| 快照]23w01a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/23w01a) | ❌ | ❌ | 28 | Added mod: Apple skin, autoreconnect |
+| [[SNAPSHOT \| 快照]23w01b](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/23w01b) | ❌ | ✅ | 27 | Fix bugs of version 22w02a and 23w01a [More](https://www.rscraft.cf/bugs) |
