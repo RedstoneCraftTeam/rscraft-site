@@ -117,11 +117,8 @@ const config = {
               },
             ],
           },
-          {
-            html: `<a href="https://icp.gov.moe/?keyword=20230066" target="_blank">萌ICP备20230066号</a>`
-          },
         ],
-        copyright: `版权所有 © 2022 ~ ${new Date().getFullYear()} 红石工艺团队。`,
+        copyright: `版权所有 © 2022 ~ ${new Date().getFullYear()} 红石工艺团队。<br /><a href="https://icp.gov.moe/?keyword=20230066" target="_blank">萌ICP备20230066号</a>`,
       },
       prism: {
         theme: lightCodeTheme,
