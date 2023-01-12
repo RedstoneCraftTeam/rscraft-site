@@ -116,7 +116,7 @@ const config = {
                 href: 'https://afdian.net/a/wdning'
               },
               {
-                html: "页脚插入一个<a href="https://icp.gov.moe/?keyword=20230066" target="_blank">萌ICP备20230066号</a>"
+                html: `<a href="https://icp.gov.moe/?keyword=20230066" target="_blank">萌ICP备20230066号</a>`
               },
             ],
           },
