@@ -66,7 +66,7 @@ const config = {
           {href: '/download', label: '下载', position: 'left'},
           {href: '/changelog', label: '更新日志', position: 'left'},
           {
-            href: 'https://jq.qq.com/?_wv=1027&k=4z1QcV8t',
+            href: 'https://jq.qq.com/?_wv=1027&k=6QK0gI9t',
             label: 'QQ群',
             position: 'right',
           },
@@ -109,11 +109,15 @@ const config = {
               },
               {
                 label: 'QQ群',
-                href: 'https://jq.qq.com/?_wv=1027&k=4z1QcV8t'
+                href: 'https://jq.qq.com/?_wv=1027&k=6QK0gI9t'
               },
               {
                 label: '爱发电',
                 href: 'https://afdian.net/a/wdning'
+              },
+              {
+                label: '微博',
+                href: 'https://weibo.com/u/7764949880'
               },
             ],
           },
