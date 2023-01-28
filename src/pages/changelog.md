@@ -30,3 +30,4 @@ description: 红石工艺 更新日志
 | [[SNAPSHOT \| 快照]23w01a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/23w01a) | ❌ | ❌ | 28 | Added mod: Apple skin, autoreconnect |
 | [[SNAPSHOT \| 快照]23w01b](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/23w01b) | ❌ | ✅ | 28 | Fix bugs of version 22w02a and 23w01a [More](https://www.rscraft.cf/bugs) |
 | [[PRE \| 预览版]1.2.0_RC1](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/23w01b) | ✅ | ❌ | 38 | added 10 mods [More](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/1.2.0_RC1) |
+| [1.2.0](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/v1.2.0) | ❌ | ✅ | 46 | 请使用指令导出json查看mod列表 |
