@@ -29,7 +29,7 @@ const FeatureList = [
         <br />
         当然，多人游玩也应该毫无问题。
         <br />
-        （⚠注意：多人游戏中，Tweakeroo模组和X-Ray透视矿材质包慎用（有几率会被服务器ban））
+        （⚠注意：多人游戏中，Tweakeroo模组和X-Ray透视矿材质包慎用，因为有几率会被服务器ban！）
       </>
     ),
   },
