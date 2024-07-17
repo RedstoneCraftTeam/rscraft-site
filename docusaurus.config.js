@@ -80,49 +80,26 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '导航',
-            items: [
-              {
-                label: '主页',
-                href: '/',
-              },
-              {
-                label: '下载',
-                href: '/download',
-              },
-              {
-                label: '更新日志',
-                href: '/changelog',
-              },
-            ],
+            label: 'GitHub',
+            href: 'https://github.com/RedstoneCraftTeam',
           },
           {
-            title: '联系我们 丨 Contact us',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/RedstoneCraftTeam',
-              },
-              {
-                label: 'E-mail',
-                href: 'mailto:geneluo@qq.com'
-              },
-              {
-                label: 'QQ群',
-                href: 'https://jq.qq.com/?_wv=1027&k=6QK0gI9t'
-              },
-              {
-                label: '爱发电',
-                href: 'https://afdian.net/a/wdning'
-              },
-              {
-                label: '微博',
-                href: 'https://weibo.com/u/7764949880'
-              },
-            ],
+            label: 'E-mail',
+            href: 'mailto:geneluo@qq.com'
+          },
+          {
+            label: 'QQ群',
+            href: 'https://jq.qq.com/?_wv=1027&k=6QK0gI9t'
+          },
+          {
+            label: '爱发电',
+            href: 'https://afdian.net/a/wdning'
+          },
+          {
+            label: '微博',
+            href: 'https://weibo.com/u/7764949880'
           },
         ],
-        copyright: `版权所有 © 2022 ~ ${new Date().getFullYear()} 红石工艺团队。<br /><a href="https://icp.gov.moe/?keyword=20230066" target="_blank">萌ICP备20230066号</a>`,
       },
       prism: {
         theme: lightCodeTheme,
